@@ -11,3 +11,6 @@ http://stream.example.com/live/channel3/index.m3u8
 
 #EXTINF:-1 tvg-id="channel4" tvg-name="မဟာအီးစပွတ် HD" tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png" group-title="မြန်မာတီဗွီချန်နယ်", မဟာအီးစပွတ် HD
 https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="channel5" tvg-name="ဒီဗွီဘီသတင်း HD" tvg-logo="https://yt3.googleusercontent.com/8HhfrJBa1OmR9nbubJ16lzuxIR6QiT9mhW2EUDLMnmTibwZF2IIDghzn1g5Qfutx0g6xdx0D=s900-c-k-c0x00ffffff-no-rj" group-title="မြန်မာတီဗွီချန်နယ်", ဒီဗွီဘီသတင်း HD
+https://live-stream.dvb.no/hls/stream_high/index.m3u8

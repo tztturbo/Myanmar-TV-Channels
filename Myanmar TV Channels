@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-id="channel1" tvg-name="မဟာ HD" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ" group-title="မြန်မာတီဗွီချန်နယ်", မဟာ HD
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="channel2" tvg-name="My Channel 2" tvg-logo="http://example.com/logo2.png" group-title="မြန်မာတီဗွီချန်နယ်", My Channel 2
+#EXTINF:-1 tvg-id="channel2" tvg-name="MRTV-4 HD" tvg-logo="http://example.com/logo2.png" group-title="မြန်မာတီဗွီချန်နယ်", MRTV-4 HD
 http://stream.example.com/live/channel2/index.m3u8
 
-#EXTINF:-1 tvg-id="channel3" tvg-name="My Channel 3" tvg-logo="http://example.com/logo3.png" group-title="မြန်မာတီဗွီချန်နယ်", My Channel 3
+#EXTINF:-1 tvg-id="channel3" tvg-name="Channel7 HD" tvg-logo="http://example.com/logo3.png" group-title="မြန်မာတီဗွီချန်နယ်", Channel7 HD
 http://stream.example.com/live/channel3/index.m3u8
 
-#EXTINF:-1 tvg-id="channel4" tvg-name="My Channel 4" tvg-logo="http://example.com/logo4.png" group-title="မြန်မာတီဗွီချန်နယ်", My Channel 4
+#EXTINF:-1 tvg-id="channel4" tvg-name="မဟာအီးစပွတ် HD" tvg-logo="http://example.com/logo4.png" group-title="မြန်မာတီဗွီချန်နယ်", မဟာအီးစပွတ် HD
 http://stream.example.com/live/channel4/index.m3u8

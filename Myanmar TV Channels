@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="channel1" tvg-name="မဟာတီဗွီ HD" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ" group-title="မြန်မာတီဗွီချန်နယ်", မဟာတီဗွီ HD
+#EXTINF:-1 tvg-id="channel1" tvg-name="မဟာ HD" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ" group-title="မြန်မာတီဗွီချန်နယ်", မဟာ HD
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="channel2" tvg-name="My Channel 2" tvg-logo="http://example.com/logo2.png" group-title="မြန်မာတီဗွီချန်နယ်", My Channel 2

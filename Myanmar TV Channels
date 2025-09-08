@@ -1,1 +1,13 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="channel1" tvg-name="မဟာတီဗွီ HD" tvg-logo="http://example.com/logo1.png" group-title="Entertainment", မဟာတီဗွီ HD
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channel2" tvg-name="My Channel 2" tvg-logo="http://example.com/logo2.png" group-title="Entertainment", My Channel 2
+http://stream.example.com/live/channel2/index.m3u8
+
+#EXTINF:-1 tvg-id="channel3" tvg-name="My Channel 3" tvg-logo="http://example.com/logo3.png" group-title="Entertainment", My Channel 3
+http://stream.example.com/live/channel3/index.m3u8
+
+#EXTINF:-1 tvg-id="channel4" tvg-name="My Channel 4" tvg-logo="http://example.com/logo4.png" group-title="Entertainment", My Channel 4
+http://stream.example.com/live/channel4/index.m3u8

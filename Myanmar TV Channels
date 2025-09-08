@@ -18,5 +18,8 @@ https://live-stream.dvb.no/hls/stream_high/index.m3u8
 #EXTINF:-1 tvg-id="channel6" tvg-name="မဟာဗောဓိ" tvg-logo="https://i.imgur.com/lV7WEVs.png" group-title="မြန်မာတီဗွီချန်နယ်", မဟာဗောဓိ
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
-#EXTINF:-1 tvg-id="channel7" tvg-name="FORTUNE TV HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m3ypkRiX0knAxWmQ9M-b20znrxJfbnGT60Za_yU3yl1w=s900-c-k-c0x00ffffff-no-rj" group-title="မြန်မာတီဗွီချန်နယ်", FORTUNE TV HD
+#EXTINF:-1 tvg-id="channel7" tvg-name="TVM HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m3ypkRiX0knAxWmQ9M-b20znrxJfbnGT60Za_yU3yl1w=s900-c-k-c0x00ffffff-no-rj" group-title="မြန်မာတီဗွီချန်နယ်", TVM HD
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1 tvg-id="channel8" tvg-name="FORTUNE TV HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m3ypkRiX0knAxWmQ9M-b20znrxJfbnGT60Za_yU3yl1w=s900-c-k-c0x00ffffff-no-rj" group-title="မြန်မာတီဗွီချန်နယ်", FORTUNE TV HD
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8

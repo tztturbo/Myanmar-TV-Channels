@@ -1,26 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="channel1" tvg-name="MAHAR HD" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ" group-title="မြန်မာတီဗွီချန်နယ်", မဟာ HD
+#EXTINF:-1 tvg-id="channel1" tvg-name="မဟာ HD" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ" group-title="မြန်မာတီဗွီချန်နယ်", မဟာ HD
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="channel2" tvg-name="MRTV-4 HD" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-120x120-81c.jpg" group-title="မြန်မာတီဗွီချန်နယ်", MRTV-4 HD
+#EXTINF:-1 tvg-id="channel2" tvg-name="MRTV-4 HD" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-120x120-81c.jpg" group-title="မြန်မာတီဗွီချန်နယ်", MRTV-4 HD (Android TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be7f7cbe12a54a27917f21f7310f63ae:101c5da36da54bc88122b932d946e9f7
 https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 
-#EXTINF:-1 tvg-id="channel3" tvg-name="Channel7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png" group-title="မြန်မာတီဗွီချန်နယ်", Channel7 HD
+#EXTINF:-1 tvg-id="channel3" tvg-name="Channel7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png" group-title="မြန်မာတီဗွီချန်နယ်", Channel7 HD (Android TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c92391adac1472bad4f68791b3bb4b8:c887792e197e7f5472371f76709e8f8a
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 
-#EXTINF:-1 tvg-id="channel4" tvg-name="MAHAR Esport HD" tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png" group-title="မြန်မာတီဗွီချန်နယ်", မဟာအီးစပွတ် HD
+#EXTINF:-1 tvg-id="channel4" tvg-name="မဟာအီးစပွတ် HD" tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png" group-title="မြန်မာတီဗွီချန်နယ်", မဟာအီးစပွတ် HD
 https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="channel5" tvg-name="DVB TV" tvg-logo="https://yt3.googleusercontent.com/8HhfrJBa1OmR9nbubJ16lzuxIR6QiT9mhW2EUDLMnmTibwZF2IIDghzn1g5Qfutx0g6xdx0D=s900-c-k-c0x00ffffff-no-rj" group-title="မြန်မာတီဗွီချန်နယ်", ဒီဗွီဘီသတင်း
+#EXTINF:-1 tvg-id="channel5" tvg-name="ဒီဗွိဘီသတင်း" tvg-logo="https://yt3.googleusercontent.com/8HhfrJBa1OmR9nbubJ16lzuxIR6QiT9mhW2EUDLMnmTibwZF2IIDghzn1g5Qfutx0g6xdx0D=s900-c-k-c0x00ffffff-no-rj" group-title="မြန်မာတီဗွီချန်နယ်", ဒီဗွီဘီသတင်း
 https://live-stream.dvb.no/hls/stream_high/index.m3u8
 
 #EXTINF:-1 tvg-id="channel6" tvg-name="မဟာဗောဓိ" tvg-logo="https://i.imgur.com/lV7WEVs.png" group-title="မြန်မာတီဗွီချန်နယ်", မဟာဗောဓိ

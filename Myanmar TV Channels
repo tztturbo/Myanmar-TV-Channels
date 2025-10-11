@@ -33,7 +33,7 @@ http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
 #EXTINF:-1 tvg-id="channel9" tvg-name="LIVE" tvg-logo="https://lh3.googleusercontent.com/pw/AP1GczOIwIrVTtJiwFQaW2DCK6bi2ELJ-y_Z2ovYQ-Lc7LKullyANfrgfxERATz96S_8t9vSlUBWkrtbi1Xx6tsHnNnNScgDFvs5RvoJzGuIfyU70Zc2i7BXPvL8TW7W5miuWXcymcUKvyazaWh9Lqoc6aMr=w1219-h1625-s-no-gm?authuser=0" group-title="မြန်မာတီဗွီချန်နယ်", LIVE
-https://stream.kick.com/ivs/v1/196233775518/MPSJXVg1UAvg/2025/10/11/2/55/kKEnD8eYrJlz/media/hls/1080p48/playlist.m3u8
+https://stream.kick.com/ivs/v1/196233775518/FcZ4adWEXn48/2025/10/2/0/2/kGeqaH5Uf7Bk/media/hls/1080p60/playlist.m3u8
 
 #EXTINF:-1 tvg-id="channel10" tvg-name="MM Movies 3 (Android TV)" tvg-logo="https://i.ibb.co/jsQMLSt/20231209-163817-0000.png" group-title="မြန်မာတီဗွီချန်နယ်", MM Movies 3 (Android TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager

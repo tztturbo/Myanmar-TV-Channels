@@ -32,7 +32,7 @@ http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 #EXTINF:-1 tvg-id="channel8" tvg-name="GoldenLand HD" tvg-logo="https://i.ibb.co/0jxLBW6z/Untitled-design-20231004-185716-0000.jpg" group-title="မြန်မာတီဗွီချန်နယ်", GoldenLand HD
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
-#EXTINF:-1 tvg-id="channel9" tvg-name="LIVE" tvg-logo="https://i.ibb.co/W4GV5nnr/live-stream.png" group-title="မြန်မာတီဗွီချန်နယ်", LIVE
+#EXTINF:-1 tvg-id="channel9" tvg-name="LIVE" tvg-logo="https://i.ibb.co/W4GV5nnr/live-stream.png" group-title="မြန်မာတီဗွီချန်နယ်", LIVE (Offline)
 https://stream.kick.com/ivs/v1/196233775518/W6JXCQSK6xaS/2025/10/10/22/51/jPgu9IduwRYC/media/hls/720p60/playlist.m3u8
 
 #EXTINF:-1 tvg-id="channel10" tvg-name="MM Movies 3 (Android TV)" tvg-logo="https://i.ibb.co/jsQMLSt/20231209-163817-0000.png" group-title="မြန်မာတီဗွီချန်နယ်", MM Movies 3 (Android TV)

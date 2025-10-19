@@ -33,7 +33,7 @@ http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
 #EXTINF:-1 tvg-id="channel9" tvg-name="ASoneKyi HD" tvg-logo="https://i.ibb.co/SwNcCCSS/Picsart-25-10-13-14-42-10-816.jpg" group-title="မြန်မာတီဗွီချန်နယ်", ASoneKyi HD
-https://github.com/tztturbo/MODGoldy-Files/raw/refs/heads/main/TV_Error_No_Signal_Effect_MEME!!__Download_Link_In_Description_(720p).mp4
+https://global-media-cdn.sooplive.com/32878d2d-23a3-4df5-8e5a-4186ecc60e87/sai666/Cp_AY1dSNkvSlXMUuVXVpfpM187-W34k5jluEd0WTGIq_G8MnQ33uaIwHHukX5cZlIUTjhtJN7_N3SP8txee9w==/video/1280x720/playlist_0_8bc540.m3u8
 
 #EXTINF:-1 tvg-id="channel10" tvg-name="MM Movies 3 (Android TV)" tvg-logo="https://i.ibb.co/jsQMLSt/20231209-163817-0000.png" group-title="မြန်မာတီဗွီချန်နယ်", MM Movies 3 (Android TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager

@@ -33,8 +33,8 @@ http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
 #EXTINF:-1 tvg-id="channel9" tvg-name="ASoneKyi HD" tvg-logo="https://i.ibb.co/SwNcCCSS/Picsart-25-10-13-14-42-10-816.jpg" group-title="မြန်မာတီဗွီချန်နယ်", ASoneKyi HD
+http://playtimeshift.trovo.live/timeshift/live/73846_110718418_110718418/timeshift.m3u8?delay=0&t=68f76648&rlimit=5&us=ChxWbXdWQUVqeWhCOGg4TllydE5iaHNyV2NBS2c9EiQyNDZiYjg4ZS0yNjZjLTQ3OTktYjBmNy1mYmViOGYwMGRlMDQaHjExMDcxODQxOF8xMTA3MTg0MThfMTc2MTAyMDU2MCDoo9zHBkIMMTcyLjI1LjI5LjQ1ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGADehI2NTQ5MjAyOTQ0MjUxMDEzMTCQAQU&sign=df846dd6e2ad1d545138d583e6021fc6
 
-https://tx.hls.nimo.tv/live/su1639526206252ra7847b838d59b7f399d10774b02e316a.m3u8?appid=81&tp=1760945250915&id=su1639526206252ra7847b838d59b7f399d10774b02e316a&needwm=0&ratio=500&wsSecret=16bb14b82a208591055dbdf644b451a6&wsTime=68f735e2&seqid=1761334803896&ctype=nimo_media_wap&u=389511275&t=110&sv=2411271811
 #EXTINF:-1 tvg-id="channel10" tvg-name="MM Movies 3 (Android TV)" tvg-logo="https://i.ibb.co/jsQMLSt/20231209-163817-0000.png" group-title="မြန်မာတီဗွီချန်နယ်", MM Movies 3 (Android TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

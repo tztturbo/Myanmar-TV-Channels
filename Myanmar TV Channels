@@ -48,3 +48,6 @@ http://bananatv.org:25461/aba706633/aba706633/6549.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/836.ts
+
+#EXTINF:-1 tvg-id="channel12" tvg-name="PyonePlay Sports HD" tvg-logo="https://i.ibb.co/p6F0c5wf/1754747478f-W7-JWU.png" group-title="မြန်မာတီဗွီချန်နယ်", PyonePlay Sports HD
+https://pplive.comquas.com:5443/LiveApp/streams/DETa8ZHEQTqZ1754796161230.m3u8

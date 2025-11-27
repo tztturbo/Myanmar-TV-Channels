@@ -48,6 +48,7 @@ http://bananatv.org:25461/aba706633/aba706633/836.ts
 #EXTINF:-1 tvg-id="channel12" tvg-name="PyonePlay Sports HD" tvg-logo="https://i.ibb.co/p6F0c5wf/1754747478f-W7-JWU.png" group-title="မြန်မာတီဗွီချန်နယ်", PyonePlay Sports HD
 https://pplive.comquas.com:5443/LiveApp/streams/DETa8ZHEQTqZ1754796161230.m3u8
 
-#APK UPDATE#
-#EXTINF:-1 tvg-id="channel1" tvg-name="Check update" tvg-logo="https://i.ibb.co/p6F0c5wf/1754747478f-W7-JWU.png" group-title="ဗားရှင်းအသစ်စစ်ဆေးရန်", အပ်ဒိတ်မရနိုင်သေးပါ
-https://pplive.comquas.com:5443/
+#Live#
+
+#EXTINF:-1 tvg-id="channel1" tvg-name="ASoneKyi HD" tvg-logo="https://i.ibb.co/7xxBmQgv/Picsart-25-11-26-07-26-29-919.jpg" group-title="တိုက်ရိုက်ထုတ်လွှင့်မှု", ASoneKyi HD
+http://playtimeshift.trovo.live/timeshift/live/73846_117110100_117110100/timeshift.m3u8?delay=0&t=6925735e&rlimit=5&us=ChwzSFFLLzN0aTRFOU1ER0pEbitIZlVjN1R3NmM9EiQ4MTU2MmQyMy05MTA2LTQ5MmEtYWRjOS0zOTRkNjcwMWU4MGIaHjExNzExMDEwMF8xMTcxMTAxMDBfMTc2NDA0MDI5NSD-vZTJBkINMTcyLjI1LjMwLjEzMUobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgA3oSOTIyMzY0MzEzNjI1MTAxMzE5kAEF&sign=cbedd3b6de6199529e3383a9f317ebda

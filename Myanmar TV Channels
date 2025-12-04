@@ -57,7 +57,7 @@ https://pplive.comquas.com:5443/LiveApp/streams/DETa8ZHEQTqZ1754796161230.m3u8
 #EXTINF:-1 tvg-id="channel13" tvg-name="MVTV Myanmar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lyOS1sZqFAogJSfF8jx6XyVufL3r4OMt8lvCTgRvvOlxI=s900-c-k-c0x00ffffff-no-rj" group-title="မြန်မာလိုင်းများ", MVTV Myanmar
 https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
 
-#EXTINF:-1 tvg-id="channel14" tvg-name="TVM" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lyOS1sZqFAogJSfF8jx6XyVufL3r4OMt8lvCTgRvvOlxI=s900-c-k-c0x00ffffff-no-rj" group-title="မြန်မာလိုင်းများ", TVM
+#EXTINF:-1 tvg-id="channel14" tvg-name="TVM" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvm-mm.png" group-title="မြန်မာလိုင်းများ", TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
 #Live#

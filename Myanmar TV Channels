@@ -62,3 +62,6 @@ http://playtimeshift.trovo.live/timeshift
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Nobody 2025" tvg-logo="https://i.ibb.co/DPwJKwrK/IMG-20251204-102813-772.jpg" group-title="ဇာတ်ကားများ", Nobody 2025
 https://stream.zustic.com/dl/757622b6-5e39-4f7b-bf98-e4a238d98afd
+
+#EXTINF:-1 tvg-id="channel2" tvg-name="Female Detective Sima Nan 2024" tvg-logo="https://i.ibb.co/FkzLSG5v/IMG-20251204-104029-041.jpg" group-title="ဇာတ်ကားများ", Female Detective Sima Nan 2024
+https://stream.zustic.com/dl/75751ccd-b123-4668-807e-2a6f6fe5721b

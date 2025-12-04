@@ -21,7 +21,7 @@ https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
 #EXTINF:-1 tvg-id="channel5" tvg-name="ဒီဗွိဘီသတင်း" tvg-logo="https://yt3.googleusercontent.com/8HhfrJBa1OmR9nbubJ16lzuxIR6QiT9mhW2EUDLMnmTibwZF2IIDghzn1g5Qfutx0g6xdx0D=s900-c-k-c0x00ffffff-no-rj" group-title="မြန်မာလိုင်းများ", ဒီဗွီဘီသတင်း
 https://live-stream.dvb.no/hls/stream_high/index.m3u8
 
-#EXTINF:-1 tvg-id="channel6" tvg-name="မဟာဗောဓိ" tvg-logo="https://i.imgur.com/lV7WEVs.png" group-title="မြန်မာတီဗွီချန်နယ်", မဟာဗောဓိ
+#EXTINF:-1 tvg-id="channel6" tvg-name="မဟာဗောဓိ" tvg-logo="https://i.imgur.com/lV7WEVs.png" group-title="မြန်မာလိုင်းများ", မဟာဗောဓိ
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
 #EXTINF:-1 tvg-id="channel7" tvg-name="FORTUNE TV HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m3ypkRiX0knAxWmQ9M-b20znrxJfbnGT60Za_yU3yl1w=s900-c-k-c0x00ffffff-no-rj" group-title="မြန်မာလိုင်းများ", FORTUNE TV HD

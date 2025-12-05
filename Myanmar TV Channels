@@ -73,6 +73,9 @@ https://stream.zustic.com/dl/1426bdb2-04fa-4ebe-927e-c4f33baa9c70
 #EXTINF:-1 tvg-id="channel1" tvg-name="BEIN SPORTS XTRA n" tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack" group-title="အားကစားလိုင်းများ", BEIN SPORTS XTRA n
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
+#EXTINF:-1 tvg-id="channel2" tvg-name="SKY SPORTS PML" tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack" group-title="အားကစားလိုင်းများ", SKY SPORTS PML
+http://lbssx19.xyz/2755789541/1300714776/191686?token=WFFoYjB5T01VNGxkMEhG
+
 #Movies#
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Nobody 2025" tvg-logo="https://i.ibb.co/DPwJKwrK/IMG-20251204-102813-772.jpg" group-title="ဇာတ်ကားများ", Nobody 2025

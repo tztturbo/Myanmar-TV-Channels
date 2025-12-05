@@ -76,6 +76,9 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="channel2" tvg-name="Star Sports Select 1 HD" tvg-logo="https://cdn.smartads.in/images/product_group/television/star-sports-select-1-hd.png" group-title="အားကစားလိုင်းများ", Star Sports Select 1 HD
 http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="channel3" tvg-name="Star Sports Select 2 HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-2.jpg" group-title="အားကစားလိုင်းများ", Star Sports Select 2 HD
+http://45.148.145.57/AF_S2/tracks-v1a1/mono.m3u8
+
 #Movies#
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Nobody 2025" tvg-logo="https://i.ibb.co/DPwJKwrK/IMG-20251204-102813-772.jpg" group-title="ဇာတ်ကားများ", Nobody 2025

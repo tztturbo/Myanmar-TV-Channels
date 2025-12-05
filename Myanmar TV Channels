@@ -79,6 +79,9 @@ http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="channel3" tvg-name="Star Sports Select 2 HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-2.jpg" group-title="အားကစားလိုင်းများ", Star Sports Select 2 HD
 http://45.148.145.57/AF_S2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="channel4" tvg-name="95TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSlXBBEe6s9ET4qa7h1ATmI1FJmU8jMhomuXWRPhdiumodP48IQkNGVKs&s=10" group-title="အားကစားလိုင်းများ", 95TV
+https://live.95tv.live/channel/25/chunks.m3u8
+
 #Movies#
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Nobody 2025" tvg-logo="https://i.ibb.co/DPwJKwrK/IMG-20251204-102813-772.jpg" group-title="ဇာတ်ကားများ", Nobody 2025

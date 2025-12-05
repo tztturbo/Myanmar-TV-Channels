@@ -66,7 +66,7 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #Live#
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="ASoneKyi HD" tvg-logo="https://i.ibb.co/7xxBmQgv/Picsart-25-11-26-07-26-29-919.jpg" group-title="တိုက်ရိုက်ထုတ်လွှင့်မှု", ASoneKyi HD
-https://stream.zustic.com/dl/1426bdb2-04fa-4ebe-927e-c4f33baa9c70
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1764919467-0-0-57171e9ac987373aaa4989ac942fe8de
 
 #Football Channels#
 

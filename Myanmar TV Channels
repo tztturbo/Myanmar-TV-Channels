@@ -73,7 +73,7 @@ http://195.211.191.171/P4B9TB9xR8/humongous2tonight/98864?token=ShJcU0BbQQNHCwEP
 #EXTINF:-1 tvg-id="channel1" tvg-name="BEIN SPORTS XTRA n" tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack" group-title="အားကစားလိုင်းများ", BEIN SPORTS XTRA n
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-id="channel2" tvg-name="Star Sports Select 1 HD" tvg-logo="https://cdn.smartads.in/images/product_group/television/star-sports-select-1-hd.png" group-title="အားကစားလိုင်းများ", Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="channel2" tvg-name="Star Sports Select 1 HD" tvg-logo="https://cdn.smartads.in/images/product/television/Star-Sports-Select-2-HD.png" group-title="အားကစားလိုင်းများ", Star Sports Select 1 HD
 http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="channel3" tvg-name="Star Sports Select 2 HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-2.jpg" group-title="အားကစားလိုင်းများ", Star Sports Select 2 HD

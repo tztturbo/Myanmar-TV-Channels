@@ -87,6 +87,9 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9402
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9404
 
 #EXTINF:-1 tvg-id="channel9" tvg-name="SEA GAME CH1" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='5760" group-title="အားကစားလိုင်းများ", SEA GAME CH1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 https://ls-mp03.eo-edgefunctions7.com/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
 #Movies#

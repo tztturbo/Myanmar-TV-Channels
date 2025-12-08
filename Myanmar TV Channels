@@ -52,7 +52,7 @@ http://bananatv.org:25461/aba706633/aba706633/6549.ts
 http://bananatv.org:25461/aba706633/aba706633/836.ts
 
 #EXTINF:-1 tvg-id="channel12" tvg-name="PyonePlay Sports HD" tvg-logo="https://i.ibb.co/p6F0c5wf/1754747478f-W7-JWU.png" group-title="မြန်မာလိုင်းများ", PyonePlay Sports HD
-https://pplive.comquas.com:5443/LiveApp/streams/DETa8ZHEQTqZ1754796161230.m3u8
+https://cdn-live-pyone.secureswiftcontent.com/han/pyone/sport/HLSoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-id="channel13" tvg-name="MVTV Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png" group-title="မြန်မာလိုင်းများ", MVTV Myanmar
 https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
@@ -66,7 +66,7 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #Live#
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="ASoneKyi HD" tvg-logo="https://i.ibb.co/7xxBmQgv/Picsart-25-11-26-07-26-29-919.jpg" group-title="တိုက်ရိုက်ထုတ်လွှင့်မှု", ASoneKyi HD
-https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://cdn-live-pyone.secureswiftcontent.com/han/pyone/sport/HLSoutput/manifest.m3u8
 
 #Football Channels#
 

@@ -86,6 +86,9 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9402
 #EXTINF:-1 tvg-id="channel8" tvg-name="Sony Ten 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="အားကစားလိုင်းများ", Sony Ten 3 HD
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9404
 
+#EXTINF:-1 tvg-id="channel9" tvg-name="SEA GAME CH1" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='5760" group-title="အားကစားလိုင်းများ", SEA GAME CH1
+https://ls-mp03.eo-edgefunctions7.com/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
 #Movies#
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Nobody 2025" tvg-logo="https://i.ibb.co/DPwJKwrK/IMG-20251204-102813-772.jpg" group-title="ဇာတ်ကားများ", Nobody 2025

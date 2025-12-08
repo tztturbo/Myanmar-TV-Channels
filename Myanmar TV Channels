@@ -6,11 +6,7 @@
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="channel2" tvg-name="MRTV-4 HD" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-120x120-81c.jpg" group-title="မြန်မာလိုင်းများ", MRTV-4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c92391adac1472bad4f68791b3bb4b8:c887792e197e7f5472371f76709e8f8a
-https://pplive.comquas.com:5443/LiveApp/streams/9AUG8Y4aKVmk1762750828463.m3u8
+https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/HLSoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-id="channel3" tvg-name="Channel7 HD (Android TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png" group-title="မြန်မာလိုင်းများ", Channel7 HD (Android TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager

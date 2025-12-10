@@ -96,6 +96,11 @@ https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
 https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
 
+#EXTINF:-1 tvg-id="channel11" tvg-name="SEA GAME CH03" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298974'&EntityType='Item'&EntityId='5760" group-title="အားကစားလိုင်းများ", SEA GAME CH03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
 #Movies#
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Nobody 2025" tvg-logo="https://i.ibb.co/DPwJKwrK/IMG-20251204-102813-772.jpg" group-title="ဇာတ်ကားများ", Nobody 2025

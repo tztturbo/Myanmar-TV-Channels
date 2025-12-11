@@ -60,7 +60,7 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-name="ASoneKyi HD" tvg-logo="https://i.ibb.co/7xxBmQgv/Picsart-25-11-26-07-26-29-919.jpg" group-title="တိုက်ရိုက်ထုတ်လွှင့်မှု", ASoneKyi HD
 https://cdn-live-pyone.secureswiftcontent.com/han/pyone/sport/HLSoutput/manifest.m3u8
 
-#Football Channels#
+#Sports Channels#
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="BEIN SPORTS XTRA n" tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack" group-title="အားကစားလိုင်းများ", BEIN SPORTS XTRA n
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
